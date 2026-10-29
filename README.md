@@ -4,18 +4,17 @@
 <div>
   <h2>What I love:</h2>
   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" **alt="DotNet" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="80" height="80"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="80" height="80"/>&nbsp;
   </div>
 </div>
 <div>
   <h2>About Me:</h2>
   <p>I am a Software Developer passionate about building user-focused experiences with meaningful interaction, strong performance, and well-structured architecture!</p>
-  <p>🧙‍♂️: I am focused on C#, .NET, Azure, TypeScript, Angular, Next.js.</p>
+  <p>🧙‍♂️: I am focused on TypeScript, Next.js, C#, .NET, Azure.</p>
   <p>😲: I love continuous learning and improving day by day following a goal oriented mindset.</p>
   <p>🤖: I am really excited about the world of AI and discovering new ways to integrate it into current digital products.</p>
   <p>😄: I love working in a team and bringing good vibes to the people I work with.</p>
